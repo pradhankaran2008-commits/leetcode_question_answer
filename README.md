@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/3870-count-commas-in-range) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
