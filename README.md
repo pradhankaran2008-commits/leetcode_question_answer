@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0242-valid-anagram) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
