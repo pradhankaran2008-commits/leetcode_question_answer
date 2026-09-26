@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/pradhankaran2008-commits/leetcode_question_answer/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
